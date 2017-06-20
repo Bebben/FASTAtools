@@ -5,8 +5,10 @@
 ** Login   <benoit.pingris@epitech.net>
 ** 
 ** Started on  Sat Jun 17 22:11:33 2017 benoit pingris
-** Last update Sun Jun 18 00:14:59 2017 benoit pingris
+** Last update Mon Jun 19 11:46:43 2017 benoit pingris
 */
+
+#include <string.h>
 
 int	tab_len(char **tab)
 {

@@ -1,11 +1,11 @@
 /*
-** requirement.c for fastatools in /home/benoit.pingris/delivery/synthesis/fasta
+** requirement.c for whaou in /home/benoit.pingris/delivery/synthesis/ADM_FASTAtools_2016
 ** 
 ** Made by benoit pingris
 ** Login   <benoit.pingris@epitech.net>
 ** 
-** Started on  Sat Jun 17 21:11:26 2017 benoit pingris
-** Last update Sat Jun 17 21:25:21 2017 benoit pingris
+** Started on  Mon Jun 19 09:56:11 2017 benoit pingris
+** Last update Mon Jun 19 21:38:47 2017 benoit pingris
 */
 
 char	*my_strcapitalize_synthesis(char *str)
